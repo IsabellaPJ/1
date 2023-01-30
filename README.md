@@ -9,5 +9,10 @@ This project is a machine learning classification problem. The objective of this
 
 # WebApp Output
 
-![image](https://user-images.githubusercontent.com/81914291/215444465-e4131b0a-19ea-422b-aa79-168979a2ede8.png)
+![image](https://user-images.githubusercontent.com/81914291/215445242-19af6181-b06e-4529-9540-a8dc2aad62dd.png)
+
+![image](https://user-images.githubusercontent.com/81914291/215445509-a85f8cd7-e910-4a45-9b17-a517ad5cbfc7.png)
+
+![image](https://user-images.githubusercontent.com/81914291/215445565-d35d4ffa-c48b-4a75-aec8-ffdf404a9ccb.png)
+
 
