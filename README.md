@@ -1,5 +1,5 @@
 # Mushroom-Classification
-This project is a machine learning classification problem. The objective of this project was to predict whether the mushroom is edible or poisonous. I applied five classification algorithm( Logistic Regression, Decision Tree Classifier, KNN, Random Forest Classifier and Gradient Boosting Classifier). And most of the classification algorithms hit 100% accuracy witht this dataset.
+This project is a machine learning classification problem. The objective of this project was to predict whether the mushroom is edible or poisonous. I applied five classification algorithm( Logistic Regression, Decision Tree Classifier, KNN, Random Forest Classifier and Gradient Boosting Classifier). And most of the classification algorithms hit 100% accuracy with this dataset.
 
 # Steps
   1. Data Acquisition
